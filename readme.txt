@@ -6,3 +6,4 @@ haha+test2
 >>>>>>> test1
 add branch dev
 fixed issue-001
+fixed issue-002
